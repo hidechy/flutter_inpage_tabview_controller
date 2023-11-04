@@ -1,0 +1,37 @@
+name: test_inpage_tab_view_controller
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+
+  cupertino_icons:
+
+  flutter:
+    sdk: flutter
+
+  freezed_annotation:
+
+  hooks_riverpod:
+
+  intl: ^0.18.1
+  json_annotation:
+
+dev_dependencies:
+
+  build_runner:
+  flutter_lints:
+
+  flutter_test:
+    sdk: flutter
+  freezed:
+  json_serializable:
+
+flutter:
+
+  uses-material-design: true
